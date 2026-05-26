@@ -19,7 +19,7 @@ public class MainFrame extends JFrame {
         this.controller = controller;
 
         // Impostazioni della Finestra principale
-        setTitle("Gestione Centro Sportivo - Homework 2");
+        setTitle("Gestione Centro Sportivo ");
         setSize(500, 350);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
