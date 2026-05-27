@@ -1,9 +1,5 @@
 
 
-## Spiegazione dell'Architettura del Sistema 
-
-In questo secondo homework, l'applicazione è stata interamente ristrutturata per garantire una **netta separazione delle responsabilità** seguendo il pattern architetturale **MVC (Model-View-Controller)**. Come richiesto dalle specifiche, in questa fase non è presente alcuna interazione con database fisici: la persistenza è simulata interamente in memoria volatile (dati Mock).
-
 Il codice è suddiviso in tre package fondamentali:
 
 ### 1. Package `model` (Il Modello dei Dati)
